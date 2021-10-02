@@ -1,7 +1,9 @@
 # Artificial-Intelligence-Lab
-<br>
-Este repositório reúne projetos experimentais para aplicação de tecnologias de Inteligência Artificial.
-<br>
+<img align='right' src="https://github.com/rosacarla/artificial-intelligence-lab/blob/main/imagens/ml-analytics-ai.jpg" width="215">
+
+### Este repositório reúne projetos experimentais para aplicação de tecnologias de Inteligência Artificial.
+
+###### A imagem "Machine Learning and Artificial Intelligence in Analytics" por [deepakiqlect](https://www.flickr.com/photos/158301585@N08) está licenciada sob [CC BY 2.0.](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich)<br> 
 <br>
 
 ## 1. PREVISÃO DE LOCAÇÕES DE BICICLETAS COM MACHINE LEARNING AUTOMATIZADO NO AZURE
@@ -29,5 +31,5 @@ E-mail: rosa.carla@pucpr.edu.br<br>
 Links:
 - Projeto 1: https://github.com/rosacarla/artificial-intelligence-lab/tree/main/AutoML171cba6a127 
 
-## Referências
+## Referências (Microsoft Learn)
 - Trilha [Usar o machine learning automatizado no Azure Machine Learning](https://docs.microsoft.com/pt-br/learn/modules/use-automated-machine-learning/). 
