@@ -3,7 +3,7 @@
 Este repositório reúne projetos experimentais para aplicação de tecnologias de Inteligência Artificial.
 <br>
 <br>
-____________________________________________________________________________________________________________
+______________________________________________________________________________________________________
 
 ## 1. PREVISÃO DE LOCAÇÕES DE BICICLETAS COM MACHINE LEARNING AUTOMATIZADO NO AZURE
 **Descrição:** projeto utiliza a funcionalidade de machine learning automatizado do Azure Machine Learning para treinar e implantar um modelo de previsão como serviço Web, hospedado em uma instância de contêiner do Azure.
